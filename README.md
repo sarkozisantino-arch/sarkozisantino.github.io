@@ -1,4 +1,4 @@
-#Wannes de roeck mijn skibidi rizzler sigma tung tung sahur 67 tuff ohio boy wil je mijn valentijn zijn? 
+Wannes de roeck mijn skibidi rizzler sigma tung tung sahur 67 tuff ohio boy wil je mijn valentijn zijn? 
 <title>Be My Valentine roockie mijn kleine coockie 💖</title> <style> body { margin: 0; height: 100vh; overflow: hidden; background: linear-gradient(135deg, #ffb6c1, #ff69b4); font-family: 'Comic Sans MS', cursive; display: flex; justify-content: center; align-items: center; color: white; }
 .box {  
     background: rgba(255,255,255,0.25);  
